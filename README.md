@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/pypi/l/aiovodafone.svg?style=flat-square" alt="License">
 </p>
 
-Python library to control Vodafone Station
+Python library to control Vodafone Station.
 
 ## Installation
 
